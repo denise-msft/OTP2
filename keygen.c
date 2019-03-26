@@ -1,4 +1,4 @@
-#include <stdio>
+#include <stdio.h>
 
 // This program creates a key file of specified length.
 //The characters in the file generated will be any of the 27 allowed characters, generated using the standard UNIX randomization methods.
